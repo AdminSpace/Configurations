@@ -4,7 +4,7 @@ accounts:
  name: "Arpan Gawande"
  address:
   plot: "Plot no 20 account config cloud defalut application yml file" 
-  near: "4be0c1afc701fb9b686a35e14aaae9f66e882d86a2aac72c879f9d8895ba01aa"
+  near: "{cipher}4be0c1afc701fb9b686a35e14aaae9f66e882d86a2aac72c879f9d8895ba01aa"
  phone:
   - 8983666860
   - 9011741629
