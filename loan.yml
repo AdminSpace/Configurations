@@ -1,0 +1,10 @@
+build:
+ version: "Arpan Default"
+accounts:
+ name: "Arpan Gawande"
+ address:
+  plot: "Plot no 20 loan conif cloud defalut application yml file" 
+  near: "Near Arni Road"
+ phone:
+  - 8983666860
+  - 9011741629
