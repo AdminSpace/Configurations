@@ -1,12 +1,10 @@
-build:
- version: "Arpan Default"
-accounts:
- name: "Arpan Gawande"
- address:
-  plot: "Plot no 20 account config cloud defalut application yml file" 
-  near: "Sarang society yavatmal"
- phone:
+dev:
+ name: "Arpan Jagdish Gawande"
+accountsp:
+ message: "Welocame to Account microservices Dev"
+ contactDetails:
+  name: "Arpan Gawande"
+  email: "gawandearpanDev7@gmail.com"
+ oncallSupport:
   - 8983666860
-  - 9011741629
- alternate:
-  - "No Address"
+  - 8888883446
