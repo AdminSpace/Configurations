@@ -1,2 +1,10 @@
-build:
- version: "Arpan GIT Production Ready"
+dev:
+ name: "Arpan Jagdish Gawande"
+accountsp:
+ message: "Welocame to Account microservices PROD"
+ contactDetails:
+  name: "Arpan Gawande"
+  email: "gawandearpanProd7@gmail.com"
+ oncallSupport:
+  - 9011741629
+  - 9011751629
