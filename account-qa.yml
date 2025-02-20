@@ -1,2 +1,10 @@
-build:
- version: "Arpan Quality assurance bjhvjh"
+dev:
+ name: "Arpan Jagdish Gawande"
+accountsp:
+ message: "Welocame to Account microservices QA"
+ contactDetails:
+  name: "Arpan Gawande"
+  email: "gawandearpanQA7@gmail.com"
+ oncallSupport:
+  - 4932043233
+  - 4235254543
