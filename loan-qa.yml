@@ -1,2 +1,10 @@
-build:
- version: "Arpan Quality assurance"
+dev:
+ name: "Arpan Jagdish Gawande"
+accountsp:
+ message: "Welocame to Loans microservices QA"
+ contactDetails:
+  name: "Arpan Gawande"
+  email: "gawandearpanloansQA7@gmail.com"
+ oncallSupport:
+  - 8983666860
+  - 8888883446
